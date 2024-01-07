@@ -1,6 +1,6 @@
 # caddy-binaries
 
-This repository contains [caddy] binaries with built-plugins.
+This repository contains [caddy] binaries with built-in plugins.
 
 It exists so I can easily download caddy versions with plugins I use.
 
